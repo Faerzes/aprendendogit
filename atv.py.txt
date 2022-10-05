@@ -1,0 +1,13 @@
+numero_texto - 50
+numero - int(numero_texto)
+print('olá, vamos ao teste')
+print(',,,,,,,,,,,,,,,,,,,')
+print('tenho  um número em minha memória, tente adivinhar.')
+chute = int(input('Para isso, digite um número:'))
+print(',,,,,,,,,,')
+print('você digitou o número:',chute,)
+if chute ==numero:
+	print('Hype dms, tu cago no pau, acerto o número secreto')
+else:
+	print('Carai tu erro, mô burraum.')
+print(Obrigado por participar! Vlw.')
